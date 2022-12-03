@@ -8,7 +8,10 @@
 DHT dht(DHTPIN, DHTTYPE);
 int ledl=7;
 
-
+const int trig = 12;
+const int echo = 13;
+int duration = 0;
+int distance = 0;
 static const int RXPin = 5, TXPin = 6;
 static const uint32_t GPSBaud = 4800;
 
@@ -18,6 +21,11 @@ SoftwareSerial ss(RXPin, TXPin);
 MAX30105 particleSensor;
 void setup() 
 {
+  pinMode(trig , OUTPUT);
+  pinMode(echo , INPUT);
+    
+  Serial.begin(9600);
+  
   Serial.begin(9600);
   Serial.println("DHTxx test!");
   dht.begin();
@@ -75,6 +83,14 @@ void setup()
 
 void loop() 
 {
+  digitalWrite(trig , HIGH);
+  delayMicroseconds(1000);
+  digitalWrite(trig , LOW);
+
+  duration = pulseIn(echo , HIGH);
+  distance = (duration/2) / 29.1 ;
+  Serial.println(distance);
+  
   delay(2000);
   float h = dht.readHumidity();
   float t = dht.readTemperature();
