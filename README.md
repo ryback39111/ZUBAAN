@@ -14,6 +14,7 @@ To determine the safety of animals by staying away from moving cars on the road 
 ![AI MODEL](https://user-images.githubusercontent.com/81157736/204731416-e288299d-0453-4d96-b7d5-17b4fa492a84.png)
 
 Sample Dataset :
+
 <img width="464" alt="Screenshot_20221101_015028" src="https://user-images.githubusercontent.com/81157736/205457961-ecf59db4-68c0-4c12-9770-96dd2d9de068.png">
 
 
@@ -35,3 +36,5 @@ The band is attached around the animal's paws or legs and takes temperature and 
 
 # Ani - Band Prototype :
 ![Screenshot (1](https://user-images.githubusercontent.com/81157736/205457787-16c28368-7bff-49d3-a20d-8ec273dc2fd1.png)
+
+
