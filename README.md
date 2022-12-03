@@ -12,7 +12,7 @@ Its prediction model is based on CNN using sigmoid and Relu functions; the test 
 ![AI MODEL](https://user-images.githubusercontent.com/81157736/204731416-e288299d-0453-4d96-b7d5-17b4fa492a84.png)
 
 
-System Architecture : 
+# System Architecture : 
 
 
 ![Outcome](https://user-images.githubusercontent.com/81157736/204731608-dab08348-06b4-4d59-981a-f514128ab108.png)
