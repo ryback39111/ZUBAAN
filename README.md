@@ -22,15 +22,19 @@ Sample Dataset :
 # System Architecture : 
 
 
-![Outcome](https://user-images.githubusercontent.com/81157736/204731608-dab08348-06b4-4d59-981a-f514128ab108.png)
 
+![Blank diagram (2)](https://user-images.githubusercontent.com/81157736/209480869-258c8422-c07a-4d99-aed9-447d85502c63.png)
 
 
 # Ani - Band : 
 The band is attached around the animal's paws or legs and takes temperature and health readings. We are now working on an app that will be directly connected to the band and will provide a regular update of its health. We are carefully considering a big potential to work with the Indian Forest Department and the Animal Welfare Department in order to make the band reach a larger sector of animals all around the country than only pets, rather than merely concentrating on the 1% of the country's specialist sector which will in turn help in monitoring animal's health status.We can tie those bands to cattle by working with the Indian animal welfare board to connect them with farmers who raise cattle.  This would guarantee that farmers keep a close eye on their cattle's health and are able to identify any problems or signs of illness well in advance.
 
+ 
  # Circuit Diagram :
-![Screenshot (135)](https://user-images.githubusercontent.com/81157736/205457808-2571c97d-e59f-40a3-babf-e11c4d37e9c5.png)
+
+
+![Screenshot (3)](https://user-images.githubusercontent.com/81157736/209480913-9c35c0ce-d4fc-4eda-9a77-e21b8e32f713.png)
+
 
 
 
