@@ -41,7 +41,8 @@ The band is attached around the animal's paws or legs and takes temperature and 
 
 
 # System Flow Diagram :
-![Blank diagram-1](https://user-images.githubusercontent.com/81157736/209993685-0cc9cb1f-b6e5-42b0-9fe8-6e0e3e03e341.png)
+![Blank diagram-1](https://user-images.githubusercontent.com/81157736/209994793-3e90f01d-0d8d-4c6b-846d-5e2d5bf1e150.png)
+
 
 # Overall System Integrated Diagram :
 
