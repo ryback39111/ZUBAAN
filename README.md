@@ -36,6 +36,8 @@ The band is attached around the animal's paws or legs and takes temperature and 
 ![Screenshot (3)](https://user-images.githubusercontent.com/81157736/209480913-9c35c0ce-d4fc-4eda-9a77-e21b8e32f713.png)
 
 
+# System Flow Diagram :
+[Blank diagram.pdf](https://github.com/ryback39111/ZUBAAN/files/10320906/Blank.diagram.pdf)
 
 
 # Ani - Band Prototype :
