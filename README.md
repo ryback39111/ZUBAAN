@@ -32,13 +32,20 @@ The band is attached around the animal's paws or legs and takes temperature and 
  
  # Circuit Diagram :
 
+![Blank diagram (4)](https://user-images.githubusercontent.com/81157736/209993730-b8d8717c-fcbd-4f9e-9fee-9888acc979d9.png)
 
-![Screenshot (3)](https://user-images.githubusercontent.com/81157736/209480913-9c35c0ce-d4fc-4eda-9a77-e21b8e32f713.png)
+
+# IOT Architecture :
+
+![Blank diagram (3)](https://user-images.githubusercontent.com/81157736/209993809-40eb2429-d5bb-445d-b93c-1d11e23c9f22.png)
 
 
 # System Flow Diagram :
-[Blank diagram.pdf](https://github.com/ryback39111/ZUBAAN/files/10320906/Blank.diagram.pdf)
+![Blank diagram-1](https://user-images.githubusercontent.com/81157736/209993685-0cc9cb1f-b6e5-42b0-9fe8-6e0e3e03e341.png)
 
+# Overall System Integrated Diagram :
+
+![Blank diagram (5)](https://user-images.githubusercontent.com/81157736/209993891-93f86a5d-b34b-43d5-835f-32de8fa92130.png)
 
 # Ani - Band Prototype :
 ![Screenshot (1](https://user-images.githubusercontent.com/81157736/205457787-16c28368-7bff-49d3-a20d-8ec273dc2fd1.png)
