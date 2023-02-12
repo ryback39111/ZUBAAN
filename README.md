@@ -15,7 +15,8 @@ To determine the safety of animals by staying away from moving cars on the road 
 
 Sample Dataset :
 
-<img width="464" alt="Screenshot_20221101_015028" src="https://user-images.githubusercontent.com/81157736/205457961-ecf59db4-68c0-4c12-9770-96dd2d9de068.png">
+
+<img width="464" alt="Screenshot 2022-11-01 015033" src="https://user-images.githubusercontent.com/81157736/218314255-1a24e5d5-7d4f-4250-a3a1-af912e73f1ba.png">
 
 
 
